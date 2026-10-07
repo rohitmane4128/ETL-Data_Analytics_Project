@@ -1,4 +1,3 @@
-# ETL-Data_Analytics_Project
 # ETL Data Analytics Project
 
 ## 📌 Project Overview
