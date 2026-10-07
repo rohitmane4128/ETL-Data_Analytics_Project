@@ -1,0 +1,61 @@
+UserID,OrderDate,TotalAmount,Email
+8,InvalidDate,,user8@example.com
+4,8/2/2024 0:00,365,user4@example.com
+1,8/3/2024 0:00,446.59,user1@example.com
+8,8/4/2024 0:00,866.02,user8@example.com
+4,8/5/2024 0:00,385.23,user4@example.com
+6,8/6/2024 0:00,252.54,user6@example.com
+8,8/7/2024 0:00,601.12,user8@example.com
+4,InvalidDate,942.54,user4@example.com
+3,8/9/2024 0:00,726.43,user3@example.com
+9,8/10/2024 0:00,613.06,user9@example.com
+3,8/11/2024 0:00,,user3@example.com
+9,8/12/2024 0:00,187.46,user9@example.com
+2,8/13/2024 0:00,653.51,user2@example.com
+2,8/14/2024 0:00,991.05,user2@example.com
+2,InvalidDate,226.08,user2@example.com
+6,8/16/2024 0:00,566.5,user6@example.com
+3,8/17/2024 0:00,889.64,user3@example.com
+9,8/18/2024 0:00,766.69,user9@example.com
+4,8/19/2024 0:00,727.31,user4@example.com
+1,8/20/2024 0:00,732.24,user1@example.com
+4,8/21/2024 0:00,,user4@example.com
+1,InvalidDate,423.54,user1@example.com
+5,8/23/2024 0:00,364.23,user5@example.com
+4,8/24/2024 0:00,828.43,user4@example.com
+8,8/25/2024 0:00,829.1,user8@example.com
+8,8/26/2024 0:00,880.37,user8@example.com
+7,8/27/2024 0:00,921.92,user7@example.com
+3,8/28/2024 0:00,560.21,user3@example.com
+1,InvalidDate,551.36,user1@example.com
+1,8/30/2024 0:00,818.47,user1@example.com
+3,8/31/2024 0:00,,user3@example.com
+6,9/1/2024 0:00,684.97,user6@example.com
+7,9/2/2024 0:00,731.77,user7@example.com
+6,9/3/2024 0:00,816.21,user6@example.com
+6,9/4/2024 0:00,901,user6@example.com
+6,InvalidDate,404.2,user6@example.com
+3,9/6/2024 0:00,438.02,user3@example.com
+6,9/7/2024 0:00,184.58,user6@example.com
+8,9/8/2024 0:00,620.45,user8@example.com
+2,9/9/2024 0:00,132.35,user2@example.com
+5,9/10/2024 0:00,,user5@example.com
+1,9/11/2024 0:00,519.04,user1@example.com
+1,InvalidDate,588.38,user1@example.com
+5,9/13/2024 0:00,357.89,user5@example.com
+3,9/14/2024 0:00,631.75,user3@example.com
+4,9/15/2024 0:00,127.45,user4@example.com
+3,9/16/2024 0:00,133.61,user3@example.com
+1,9/17/2024 0:00,840.34,user1@example.com
+1,9/18/2024 0:00,424.17,user1@example.com
+5,InvalidDate,214.35,user5@example.com
+6,9/20/2024 0:00,,user6@example.com
+3,9/21/2024 0:00,570.02,user3@example.com
+9,9/22/2024 0:00,792.99,user9@example.com
+5,9/23/2024 0:00,294.24,user5@example.com
+8,9/24/2024 0:00,660.6,user8@example.com
+1,9/25/2024 0:00,176.81,user1@example.com
+5,InvalidDate,146.51,user5@example.com
+3,9/27/2024 0:00,578.22,user3@example.com
+1,9/28/2024 0:00,586.57,user1@example.com
+4,9/29/2024 0:00,673.69,user4@example.com
